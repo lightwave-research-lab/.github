@@ -1,4 +1,4 @@
-This GitHub is for reserach-related code.  
+## This GitHub is for reserach-related code.  
 Ex. Instrument control code, ficonTEC wafer prober versions, 3D printer OpenSCAD files, etc.
 
 Created and owed by Kaylx Jang (kyj2110@columbia.edu).  Email me for a GitHub invite.
